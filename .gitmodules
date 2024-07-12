@@ -1,3 +1,6 @@
 [submodule "EhDir/Lab1_submodule"]
 	path = EhDir/Lab1_submodule
 	url = https://github.com/ET0735-DevOps-AIoT/Lab1_submodule.git
+[submodule "Lab3/Lab2"]
+	path = Lab3/Lab2
+	url = https://github.com/EHgitlab/Lab2

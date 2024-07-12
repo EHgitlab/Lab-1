@@ -1,0 +1,16 @@
+{
+  "name": "dock_app",
+  "version": "1.0.0",
+  "main": "dock_app.js",
+  "scripts": {
+    "start": "node dock_app.js"
+  },
+  
+  "author": "Ernest",
+  "license": "MIT",
+  "description": "Generates random passwords based on user specifications.",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "express":"4.18.2"
+  }
+}
